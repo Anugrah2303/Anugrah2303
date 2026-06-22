@@ -122,18 +122,6 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++"/><br/><sub><b>C++</b></sub></td>
 </tr>
 </table>
-
-#### 🎯 Currently Learning
-<table>
-<tr>
-<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/1995/1995574.png" width="45" height="45" alt="System Design"/><br/><sub><b>System Design</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="Advanced TypeScript"/><br/><sub><b>Advanced TS</b></sub></td>
-<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="45" height="45" alt="Scalable Backend Architecture"/><br/><sub><b>Scalable Backend</b></sub></td>
-<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2920/2920349.png" width="45" height="45" alt="Performance Optimization"/><br/><sub><b>Performance</b></sub></td>
-<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="45" height="45" alt="Design Patterns"/><br/><sub><b>Design Patterns</b></sub></td>
-</tr>
-</table>
-
 ---
 
 ### 🤝 Connect with Me
