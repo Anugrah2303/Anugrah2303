@@ -48,8 +48,6 @@
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React.js"/><br/><sub><b>React.js</b></sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/reactrouter" width="45" height="45" alt="React Router DOM"/><br/><sub><b>React Router</b></sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="45" height="45" alt="Redux Toolkit"/><br/><sub><b>Redux Toolkit</b></sub></td>
